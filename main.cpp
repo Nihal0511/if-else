@@ -6,7 +6,7 @@
 //post-condition: none
 
 
-#include <iostream>
+#include <iostream> // header file
 using namespace std;
 #include <cmath>
 #include <iomanip>
@@ -30,7 +30,7 @@ int main()
 //ask user for kilometer inputs
   cout<<" Enter distance in kilonmeter car travelled: ";
 //assign input as kilometer1
-  cin>>kilometer1;
+  cin>> kilometer1;
 
 //ask user for kilometer inputs 
   cout<<" Enter the number of kilometer car has travelled:  ";
